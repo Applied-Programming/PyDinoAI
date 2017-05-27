@@ -14,7 +14,7 @@ from alexnet import alexnet
 WIDTH = 250
 HEIGHT = 60
 LR = 1e-3
-EPOCHS = 10
+EPOCHS = 15
 MODEL_NAME = 'pydinoai-{}-{}-{}-epochs-2k-data.model'.format(LR, 'alexnetv2',EPOCHS)
 
 t_time = 0.02
