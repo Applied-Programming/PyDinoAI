@@ -1,3 +1,4 @@
+<hr>
 # PyDinoAI
 
 Training a CNN to play the [chrome://dino](chrome://dino) game by itself.
